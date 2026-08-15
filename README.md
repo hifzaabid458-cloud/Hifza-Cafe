@@ -72,5 +72,3 @@ Hifza-Cafe/
 ├── index.php
 └── README.md
 
-## 🧑‍💻 Author 
-HIFZA ABID
